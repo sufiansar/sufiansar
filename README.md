@@ -1,6 +1,6 @@
 <!-- HEADER ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=35&duration=4000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I'm+Abu+Sufian+%F0%9F%91%8B;Full+Stack+Developer;Problem+Solver;Creative+Thinker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=35&duration=4000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I'm+Md.+Abu+Sufian+%F0%9F%91%8B;Full+Stack+Developer;Problem+Solver;Creative+Thinke" alt="Typing SVG" />
 </div>
 
 <!-- ABOUT ME SECTION -->
@@ -10,13 +10,9 @@
 </div>
 
 <p align="left" style="margin-left: 20px; margin-right: 200px;">
-  Hello fellow developers! 👋
-  
-  I'm <b>Md. Abu Sufian</b>, a passionate 25-year-old Full Stack Developer and Bachelor's student at Dhaka International University. My journey in web development is driven by a desire to create meaningful, user-centered digital experiences that make a real impact.
-  
-  I believe in the power of code to transform and improve lives, which is why I'm constantly exploring new technologies and approaches. When I'm not coding, you'll find me reading tech articles, solving problems, or collaborating with other developers on exciting projects.
-  
-  Let's build something amazing together! ✨
+  Hello!
+I’m **Md. Abu Sufian**, a 25-year-old Bachelor’s student at Dhaka International University. I’m passionate about web development and deeply motivated to create meaningful, user-centered digital experiences that drive social impact. I actively follow technology trends and resources to expand my knowledge, and I strongly believe in lifelong learning and personal growth in the tech world.
+ 
 </p>
 
 <br clear="both">
@@ -108,9 +104,17 @@
 
 <!-- SUPPORT ME -->
 <div align="center">
-  <h2>💙 Support My Work</h2>
-  <p>If you like my projects, please consider ⭐ starring my repositories!</p>
-  <p>It means a lot and helps me continue creating awesome stuff.</p>
+  <h2 style="color:#38BDAE;">🌟 Show Some Love!</h2>
+  <p style="font-size: 16px; color:#ccc;">
+    💻 Like what I build? Your <strong>star</strong> on my repositories is my fuel to keep innovating!
+  </p>
+  <p style="font-size: 15px; color:#aaa;">
+    ⭐ Every star is a step forward on my journey in open source.
+  </p>
+  <a href="https://github.com/sufiansar?tab=repositories" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/github/stars/sufiansar?style=social" alt="GitHub stars"/>
+  </a>
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=sufiansar&style=flat-square&color=38BDAE" alt="Profile Views" />
 </div>
 
