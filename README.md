@@ -11,7 +11,7 @@
 
 <p align="left" style="margin-left: 20px; margin-right: 200px;">
 Hello!
-I’m Md. Abu Sufian, a 25-year-old undergraduate student pursuing a B.Sc. in Computer Science and Engineering (CSE) at Dhaka International University (DIU). I’m passionate about web development and deeply motivated to create meaningful, user-centered digital experiences that drive social impact. I actively follow technology trends and resources to expand my knowledge, and I strongly believe in lifelong learning and personal growth in the tech world.
+I’m Md. Abu Sufian, a 24-year-old undergraduate student pursuing a B.Sc. in Computer Science and Engineering (CSE) at Dhaka International University (DIU). I’m passionate about web development and deeply motivated to create meaningful, user-centered digital experiences that drive social impact. I actively follow technology trends and resources to expand my knowledge, and I strongly believe in lifelong learning and personal growth in the tech world.
  
 </p>
 
