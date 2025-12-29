@@ -30,7 +30,7 @@ I like building real-world production-ready applications with proper architectur
 
 ## 📬 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/sufian32"><img height="60" src="/icons/Linkedin.png" /></a>
+  <a href="https://www.linkedin.com/in/sufiansar"><img height="60" src="/icons/Linkedin.png" /></a>
   <a href="https://www.facebook.com/sufian.asr"><img height="60" src="/icons/Facebook.png" /></a>
   <a href="https://github.com/sufiansar"><img height="60" src="/icons/GitHub.png" /></a>
   <a href="https://www.mdabusufian.me/"><img height="60" src="/icons/portfolio.png" /></a>
