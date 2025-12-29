@@ -15,10 +15,8 @@
 ---
 
 ## 🚀 Mission
-> **Backend focused, product driven, performance obsessed**
-
-I like building real-world production-ready applications with proper architecture, clean code practices, and maintainability in mind.
-
+> **Backend focused Full Stack Web Developer, product driven, performance obsessed**
+I build end-to-end, production-ready applications with real users and real-world constraints in mind. From designing scalable backend systems to crafting clean, intuitive user interfaces, I focus on thoughtful architecture, maintainable code, and long-term reliability. I care deeply about performance, security, and developer experience, and I enjoy turning complex problems into simple, well-structured solutions that grow gracefully over time.
 ---
 
 ## 📊 GitHub Stats
