@@ -1,7 +1,7 @@
 <!-- ─────────────────────────── HERO BANNER ─────────────────────────── -->
 <p align="center">
   <a href="https://www.mdabusufian.me/">
-    <img src="cove2.png" alt="Md. Abu Sufian Cover" />
+    <img src="cover3.png" alt="Md. Abu Sufian Cover" />
   </a>
 </p>
 
