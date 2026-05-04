@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="65" viewBox="0 0 220 65">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad_Portfolio" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A1A1A" />
+      <stop offset="100%" stop-color="#050505" />
+    </linearGradient>
+    
+    <!-- Cyberpunk Top Border Gradient -->
+    <linearGradient id="cyber_Portfolio" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#00E5FF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0.2"/>
+    </linearGradient>
+    
+    <!-- Tech Dots Pattern -->
+    <pattern id="dots" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse">
+      <circle fill="#ffffff" fill-opacity="0.03" cx="2" cy="2" r="1"></circle>
+    </pattern>
+  </defs>
+
+  <!-- Main Card Body -->
+  <rect x="0" y="4" width="220" height="57" rx="6" fill="url(#bgGrad_Portfolio)" stroke="#222" stroke-width="1" />
+  
+  <!-- Overlay Pattern -->
+  <rect x="1" y="5" width="218" height="55" rx="5" fill="url(#dots)" />
+
+  <!-- Neon Top Border Accent -->
+  <rect x="1" y="4" width="218" height="2" fill="url(#cyber_Portfolio)" />
+  
+  <!-- Subtle Bottom Glow Line -->
+  <rect x="40" y="60" width="140" height="1" fill="#00E5FF" fill-opacity="0.4" />
+
+  <!-- Logo Background Circle -->
+  <circle cx="35" cy="32.5" r="16" fill="#00E5FF" fill-opacity="0.1" stroke="#00E5FF" stroke-opacity="0.3" stroke-width="1"/>
+
+  <!-- Icon -->
+  <g transform="translate(23, 20.5) scale(0.98)">
+    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z" fill="#00E5FF" />
+  </g>
+  
+  <!-- Text -->
+  <text x="68" y="38" font-family="'JetBrains Mono', 'Segoe UI', Courier, monospace" font-size="15" fill="#E6E6E6" font-weight="700" letter-spacing="2.5">PORTFOLIO</text>
+  
+  <!-- Tech Accents -->
+  <rect x="205" y="27" width="2" height="10" fill="#00E5FF" fill-opacity="0.6"/>
+  <rect x="210" y="30" width="2" height="4" fill="#00E5FF" fill-opacity="0.4"/>
+</svg>

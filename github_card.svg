@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="65" viewBox="0 0 220 65">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad_GitHub" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A1A1A" />
+      <stop offset="100%" stop-color="#050505" />
+    </linearGradient>
+    
+    <!-- Cyberpunk Top Border Gradient -->
+    <linearGradient id="cyber_GitHub" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#8b949e" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0.2"/>
+    </linearGradient>
+    
+    <!-- Tech Dots Pattern -->
+    <pattern id="dots" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse">
+      <circle fill="#ffffff" fill-opacity="0.03" cx="2" cy="2" r="1"></circle>
+    </pattern>
+  </defs>
+
+  <!-- Main Card Body -->
+  <rect x="0" y="4" width="220" height="57" rx="6" fill="url(#bgGrad_GitHub)" stroke="#222" stroke-width="1" />
+  
+  <!-- Overlay Pattern -->
+  <rect x="1" y="5" width="218" height="55" rx="5" fill="url(#dots)" />
+
+  <!-- Neon Top Border Accent -->
+  <rect x="1" y="4" width="218" height="2" fill="url(#cyber_GitHub)" />
+  
+  <!-- Subtle Bottom Glow Line -->
+  <rect x="40" y="60" width="140" height="1" fill="#8b949e" fill-opacity="0.4" />
+
+  <!-- Logo Background Circle -->
+  <circle cx="35" cy="32.5" r="16" fill="#8b949e" fill-opacity="0.1" stroke="#8b949e" stroke-opacity="0.3" stroke-width="1"/>
+
+  <!-- Icon -->
+  <g transform="translate(23, 20.5) scale(0.98)">
+    <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12" fill="#8b949e" />
+  </g>
+  
+  <!-- Text -->
+  <text x="68" y="38" font-family="'JetBrains Mono', 'Segoe UI', Courier, monospace" font-size="15" fill="#E6E6E6" font-weight="700" letter-spacing="2.5">GITHUB</text>
+  
+  <!-- Tech Accents -->
+  <rect x="205" y="27" width="2" height="10" fill="#8b949e" fill-opacity="0.6"/>
+  <rect x="210" y="30" width="2" height="4" fill="#8b949e" fill-opacity="0.4"/>
+</svg>
