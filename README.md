@@ -61,14 +61,20 @@ I build end-to-end, production-ready applications with real users and real-world
 <img height="55" src="/icons/node.png" />
 <img height="55" src="/icons/express.png" />
 <img height="55" src="/icons/mongo.png" />
-<img height="55" src="/icons/postgresSql.png" />
-<img height="55" src="/icons/prisma-icon.png" />
+<img height="55" src="/PostgreSQL-Dark.svg" />
+<img height="55" src="/Prisma.svg" />
 
 <br/>
 
 <!-- Additional -->
 <img height="55" src="/icons/c.png" />
 <img height="55" src="/icons/cpp.png" />
+
+<br/>
+<!--DEVOPS-->
+<img height="55" src="/Docker.svg" />
+<img height="55" src="/AWS-Dark.svg" />
+<img height="55" src="/Kubernetes.svg" />
 
 </p>
 
