@@ -91,16 +91,16 @@ My core mission is to engineer software that thrives under real-world constraint
   <h2>📬 Connect With Me</h2>
   <br/>
   <a href="https://www.linkedin.com/in/sufiansar">
-    <img src="./icons/linkedin_card.svg" alt="LinkedIn" width="180" />
+    <img src="./linkedin_card.svg" alt="LinkedIn" width="180" />
   </a>
   <a href="https://www.facebook.com/sufian.asr">
-    <img src="./icons/facebook_card.svg" alt="Facebook" width="180" />
+    <img src="./facebook_card.svg" alt="Facebook" width="180" />
   </a>
   <a href="https://github.com/sufiansar">
-    <img src="./icons/github_card.svg" alt="GitHub" width="180" />
+    <img src="./github_card.svg" alt="GitHub" width="180" />
   </a>
   <a href="https://www.mdabusufian.me/">
-    <img src="./icons/portfolio_card.svg" alt="Portfolio" width="180" />
+    <img src="./portfolio_card.svg" alt="Portfolio" width="180" />
   </a>
   <br/><br/>
   <i>⭐ If you like my work, consider leaving a star</i> <br/>
