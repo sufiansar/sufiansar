@@ -61,11 +61,12 @@ My core mission is to engineer software that thrives under real-world constraint
       </tr>
       <tr>
         <td width="50%" align="center" valign="top">
-          <h3>☁️ DevOps</h3>
-          <img height="45" src="./Docker.svg" title="Docker" />
-          <img height="45" src="./AWS-Dark.svg" title="AWS" />
-          <img height="45" src="./Kubernetes.svg" title="Kubernetes" />
-        </td>
+  <h3>☁️ DevOps</h3>
+  <img height="45" src="./Docker.svg" title="Docker" />
+  <img height="45" src="./AWS-Dark.svg" title="AWS" />
+  <img height="45" src="./Kubernetes.svg" title="Kubernetes" />
+  <img height="45" src="./GitHubActions-Dark.svg" title="GitHub Actions" />
+</td>
         <td width="50%" align="center" valign="top">
           <h3>💻 Languages</h3>
           <img height="45" src="./icons/JavaScript.png" title="JavaScript" />
