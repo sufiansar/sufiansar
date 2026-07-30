@@ -24,7 +24,7 @@ My core mission is to engineer software that thrives under real-world constraint
 ---
 
 ## 🧭 Overview
-- 💼 Currently working as a **Full Stack Developer** at **SM Technology** *(since January 12)*
+- 💼 Currently working as a **Full Stack Developer** at **SM Technology** *(since January 12, 2026)*
 - 🔭 Building and scaling **robust, real-world full-stack applications**
 - 🌱 Deep diving into **database engineering & scalable backend architecture**
 - 🤝 Always open to collaborating on **open-source utilities and tools**
